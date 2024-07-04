@@ -21,6 +21,7 @@
 ---
 
 ## Skills and Proficiency:
+
 - HTML5, CSS3
 - ~~JavaScript Basics~~ (soon<sup>tm</sup>)
 - Git, GitHub
