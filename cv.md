@@ -44,6 +44,6 @@ Thank you for looking here. Soon<sup>tm</sup> this section will be updated.
 
 ## Languages:
 
-- English - C1
+- English - C1 (25.06.2012 S.O.L. Minsk), IELTS 6.5 points (17/04/2014)
 - Russian - Native
 - Polish - Basic
