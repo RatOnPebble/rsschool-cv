@@ -8,7 +8,7 @@
 
 ## Contact information:
 
-**Phone:**
+**Phone:** <sub>will add as soon as I may</sub>
 **E-mail:** 3676028@gmail.com
 **Telegram:** @RatOnPebble
 
